@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
 name='epicfilemanager',
-version='0.1.0',
+version='0.1.5',
 author='Epic099',
 author_email='',
 description='File manager',
